@@ -1,0 +1,1 @@
+../../../../../node_modules/react-native-gps-state/ios/DPMGpsState.h

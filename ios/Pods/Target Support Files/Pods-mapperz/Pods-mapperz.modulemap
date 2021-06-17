@@ -1,0 +1,6 @@
+module Pods_mapperz {
+  umbrella header "Pods-mapperz-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "891651713117",
+    "firebase_url": "https://mapperz-8a8a2.firebaseio.com",
+    "project_id": "mapperz-8a8a2",
+    "storage_bucket": "mapperz-8a8a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891651713117:android:2edc38d480c866386605b4",
+        "android_client_info": {
+          "package_name": "com.mapperz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891651713117-nuqvom091dkoq96k8gl9mm7nep5bvu71.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mapperz",
+            "certificate_hash": "33ca506068b90fb206f7d3c62eacc28b04f32fbf"
+          }
+        },
+        {
+          "client_id": "891651713117-5eeo2a55tpigthob1idnjjandcbl0ckd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu8dA3OFVn_OQ6DVIN9wciBRBd-vb6Wps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891651713117-5eeo2a55tpigthob1idnjjandcbl0ckd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "891651713117-4q7hilam2hvm2191871v8a73nlsvb3m9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mapperz.mapperz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

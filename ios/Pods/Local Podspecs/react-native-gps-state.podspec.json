@@ -1,0 +1,26 @@
+{
+  "name": "react-native-gps-state",
+  "version": "2.0.3",
+  "summary": "React Native Listener for GPS status changes",
+  "description": "React Native Listener for GPS status changes",
+  "license": "MIT",
+  "authors": {
+    "name": "Neuber Oliveira",
+    "url": "neuberoliveira"
+  },
+  "homepage": "https://github.com/neuberoliveira/react-native-gps-state",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://github.com/neuberoliveira/react-native-gps-state.git",
+    "tag": "2.0.3"
+  },
+  "source_files": "ios/**/*.{h,m}",
+  "dependencies": {
+    "React": [
+
+    ]
+  }
+}

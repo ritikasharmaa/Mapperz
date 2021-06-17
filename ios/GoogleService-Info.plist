@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>891651713117-td8l2q5j2oj5p1k2ceosff4080ps1e21.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.891651713117-td8l2q5j2oj5p1k2ceosff4080ps1e21</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>891651713117-gqe5ej2offos6k52vpvk5amknft4hoqk.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCK30QcDvkbWZBVlH5N1MEEPypyHJTROrw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>891651713117</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mapperz</string>
+	<key>PROJECT_ID</key>
+	<string>mapperz-8a8a2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mapperz-8a8a2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:891651713117:ios:646f1572299de65d6605b4</string>
+	<key>DATABASE_URL</key>
+	<string>https://mapperz-8a8a2.firebaseio.com</string>
+</dict>
+</plist>
